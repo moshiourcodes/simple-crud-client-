@@ -126,4 +126,14 @@
   html {
     @apply font-sans;
     }
+    .dark body {
+  background-color: #111827;
+  color: white;
+}
+
+.dark .user-card {
+  background-color: #1f2937;
+  color: white;
+  border-color: #374151;
+}
 }
